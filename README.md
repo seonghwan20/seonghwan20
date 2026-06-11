@@ -129,6 +129,7 @@ AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
 * 기여도 추적 및 보상 흐름 설계
 * 서비스 구조 및 사용자 흐름 기획
 * BUIDL Asia Story Track 최우수상
+* Links: [1](https://x.com/devrelius/status/1911298178407870600) · [2](https://x.com/ekang426/status/1911310541534216467?s=20) · [3](https://x.com/BlockchainatYU/status/1911413117629628456?s=20)
 
 ---
 
@@ -144,8 +145,8 @@ AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
 ## Awards
 
 * Telegram IdeaTON 최우수상
-* HASHKEY HACKATHON Award
-* BUIDL Asia Story Track 최우수상
+* [HASHKEY HACKATHON 특별상](https://x.com/BlockchainatYU/status/1908135388641943925?s=20)
+* [BUIDL Asia Story Track 최우수상](https://x.com/BlockchainatYU/status/1911413117629628456?s=20)
 
 ---
 
@@ -154,6 +155,8 @@ AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghwan20\&layout=compact\&theme=default\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=seonghwan20\&theme=default\&hide_border=true)
 
 </div>
 
