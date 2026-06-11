@@ -1,181 +1,301 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0B1F3A,100:1F4E79\&height=180\&section=header\&text=Seonghwan%20Jeong\&fontSize=42\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=36\&desc=SAP%20CO%20%7C%20ERP%20Process%20%7C%20ABAP%20%7C%20Fiori%2FUI5\&descAlignY=58\&descSize=16)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&pause=1000\&color=1F4E79\&center=true\&vCenter=true\&width=650\&lines=SAP+CO+%7C+ERP+Process+%7C+ABAP+%7C+Fiori%2FUI5;Computer+Science+%7C+Accounting+%7C+Business+Process;Cost+Flow+%7C+Data+Flow+%7C+System+Design)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,50:1F4E79,100:6C63FF&height=150&section=header&text=Seonghwan%20Jeong&fontSize=40&fontColor=FFFFFF&desc=SAP%20CO%20%7C%20Fiori%2FUI5%20%7C%20Web3%20%7C%20Computer%20Science&descSize=16&descAlignY=72" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-seonghwan20.github.io-1F4E79?style=flat-square)](https://seonghwan20.github.io)
-[![Email](https://img.shields.io/badge/Email-wkrdmsxowkd20%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:wkrdmsxowkd20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-seonghwan20-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/seonghwan20)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SAP%20CO-1F4E79?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fiori%2FUI5-0FAAFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ABAP-00AEEF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web3-6C63FF?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://seonghwan20.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-seonghwan20.github.io-6C63FF?style=for-the-badge" />
+</a>
+<a href="mailto:wkrdmsxowkd20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-wkrdmsxowkd20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/seonghwan20">
+  <img src="https://img.shields.io/badge/GitHub-seonghwan20-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=seonghwan20&style=for-the-badge&color=6C63FF" />
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-* 홍익대학교 컴퓨터공학과
-* 총학점 3.94 / 4.5
-* 전공학점 4.05 / 4.5
-* 관심 분야: SAP CO, ERP Process, ABAP, Fiori/UI5
-* SAP CODE 1기 수료
-* SAP CODE 프로젝트 PM 및 CO 담당
-* SAP CODE 멘토링 진행
-* SAP ERP 실무 개발 및 업무 프로세스 교육 이수
-* 전산회계 1급 / SQLD / 네트워크관리사 2급
+## ✦ About ✦
+
+</div>
+
+```yaml
+name: "정성환 | Seonghwan Jeong"
+major: "Computer Science"
+university: "Hongik University"
+interest:
+  - SAP CO
+  - ERP Process
+  - ABAP
+  - Fiori/UI5
+  - Web3
+  - System Design
+gpa:
+  total: "3.94 / 4.5"
+  major: "4.05 / 4.5"
+```
+
+<br/>
 
 ---
-
-## Current Focus
-
-* SAP CO 프로세스
-* 원가 발생, 배부, 분할, 활동단가 산출 흐름
-* 실제원가 및 원가차이 분석 구조
-* ABAP 기반 CO 프로그램
-* CDS View / OData 기반 데이터 모델링
-* Fiori Freestyle Application
-* ERP 모듈 간 데이터 흐름
-
----
-
-## Tech & Tools
-
-### ERP / SAP
-
-![SAP CO](https://img.shields.io/badge/SAP%20CO-1F4E79?style=flat-square)
-![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square)
-![SAP UI5](https://img.shields.io/badge/SAP%20UI5-0FAAFF?style=flat-square)
-![Fiori](https://img.shields.io/badge/Fiori-0FAAFF?style=flat-square)
-![CDS View](https://img.shields.io/badge/CDS%20View-0FAAFF?style=flat-square)
-![OData](https://img.shields.io/badge/OData-0FAAFF?style=flat-square)
-
-### Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,rust,html,css,react,git,github,solidity" />
+## ✦ Current Focus ✦
+
+</div>
+
+<div align="center">
+
+| Area        | Keywords                                                  |
+| ----------- | --------------------------------------------------------- |
+| SAP CO      | Cost Center · Profit Center · Allocation · Activity Price |
+| ERP Process | FI · CO · MM · PP · SD Data Flow                          |
+| Fiori/UI5   | Freestyle App · OData V2 · JSONModel · VizFrame           |
+| ABAP        | ALV · Screen · CDS View · Table Design                    |
+| Web3        | Smart Contract · IPFS · Encryption · Access Control       |
 
 </div>
 
 <br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+---
 
-### Blockchain
+<div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square\&logo=ethereum\&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square)
+## ✦ Tech Stack ✦
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,rust,html,css,react,git,github,solidity,linux,vscode" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SAP%20CO-1F4E79?style=flat-square" />
+<img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square" />
+<img src="https://img.shields.io/badge/SAP%20UI5-0FAAFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Fiori-0FAAFF?style=flat-square" />
+<img src="https://img.shields.io/badge/CDS%20View-0FAAFF?style=flat-square" />
+<img src="https://img.shields.io/badge/OData-0FAAFF?style=flat-square" />
+
+</div>
+
+<br/>
 
 ---
 
-## Featured Projects
+<div align="center">
+
+## ✦ Featured Projects ✦
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
 
 ### 01. SAP CODE ERP Implementation Project
 
-가구 제조·판매·렌탈 기업 ERP 구축 프로젝트
+**가구 제조·판매·렌탈 기업 ERP 구축 프로젝트**
 
-* 역할: PM / CO 담당
+* PM / CO 담당
 * CO 전체 프로세스 설계
-* 조직 구조 및 Cost Center / Profit Center 계층 구조 구성
-* 간접비 발생 → 1·2차 배부 → 비용 분할 → 활동단가 산출
-* 실제 재료비 + 실제 가공비 기반 제품 실제원가 산출
-* 표준원가와 실제원가 간 원가차이 분석
-* 제품 및 기간 단위 수익성 분석
-* ABAP Program, Fiori App, CDS View, Table, Screen 설계 산출
+* Cost Center / Profit Center 계층 구조
+* 1·2차 배부
+* 비용 분할 및 활동단가 산출
+* 실제원가 및 원가차이 분석
+* Fiori 기반 표준원가 분석 대시보드
 
-#### 주요 산출물
+<br/>
 
-* 통계주요지표(SKF) 관리/입력 프로그램
-* 1차 배부 실행 프로그램
-* 비용 분할 및 실제 활동단가 산출 프로그램
-* 표준원가 분석 Fiori 대시보드
+`SAP CO` `ABAP` `Fiori/UI5` `CDS View` `OData`
 
----
+</td>
+<td width="50%">
 
 ### 02. Zkare Medical Record Management System
 
-블록체인 기반 의료 기록 관리 시스템
+**블록체인 기반 의료 기록 관리 시스템**
 
 * 졸업 프로젝트
 * Ethereum Smart Contract + React
 * MetaMask 기반 사용자 흐름
 * 권한 기반 접근제어
-* ECDSA 서명 기반 무결성 검증
+* ECDSA 무결성 검증
 * AES/RSA 이중 암호화
 * IPFS 연동
-* 환자 동의 시스템
-* 다중 병원 네트워크 구조
 
----
+<br/>
+
+`Ethereum` `React` `Solidity` `IPFS` `Encryption`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 03. 조각집 SNS Project
 
-CODEIT 연계 SNS 서비스 개발 프로젝트
+**CODEIT 연계 SNS 서비스 개발 프로젝트**
 
 * 게시글 CRUD 비즈니스 로직
 * FE / BE API 연동
 * 서버 통신 예외 트러블슈팅
-* 웹 서비스 기본 구조 및 데이터 흐름 경험
+* 웹 서비스 기본 구조
+* 데이터 흐름 경험
 
----
+<br/>
+
+`React` `API` `CRUD` `Troubleshooting`
+
+</td>
+<td width="50%">
 
 ### 04. BUIDL Asia Story Track Project
 
-AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
+**AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼**
 
 * 데이터 소유권 문제 정의
-* 기여도 추적 및 보상 흐름 설계
+* 기여도 추적 및 보상 흐름
 * 서비스 구조 및 사용자 흐름 기획
 * BUIDL Asia Story Track 최우수상
-* Links: [1](https://x.com/devrelius/status/1911298178407870600) · [2](https://x.com/ekang426/status/1911310541534216467?s=20) · [3](https://x.com/BlockchainatYU/status/1911413117629628456?s=20)
+
+<br/>
+
+`Web3` `IP` `Reward System` `Service Design`
+
+<br/>
+
+Links: [1](https://x.com/devrelius/status/1911298178407870600) · [2](https://x.com/ekang426/status/1911310541534216467?s=20) · [3](https://x.com/BlockchainatYU/status/1911413117629628456?s=20)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
-
-## Certifications
-
-* 전산회계 1급
-* SQLD
-* 네트워크관리사 2급
-* OPIc Intermediate Low
-
----
-
-## Awards
-
-* Telegram IdeaTON 최우수상
-* [HASHKEY HACKATHON 특별상](https://x.com/BlockchainatYU/status/1908135388641943925?s=20)
-* [BUIDL Asia Story Track 최우수상](https://x.com/BlockchainatYU/status/1911413117629628456?s=20)
-
----
-
-## GitHub
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghwan20\&layout=compact\&theme=default\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=seonghwan20\&theme=default\&hide_border=true)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seonghwan20\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/seonghwan20)
+## ✦ SAP CODE Outputs ✦
 
 </div>
 
+<div align="center">
+
+| Output                  | Description                     |
+| ----------------------- | ------------------------------- |
+| 통계주요지표(SKF) 관리/입력 프로그램  | 배부 기준값 관리 및 월별 실제 수량 입력         |
+| 1차 배부 실행 프로그램           | 송신 코스트센터 비용의 SKF 기준 배부          |
+| 비용 분할 및 실제 활동단가 산출 프로그램 | 제조부서 비용의 활동유형별 분할 및 단가 산출       |
+| 표준원가 분석 Fiori 대시보드      | 자재별 표준원가, BOM, 재고, 예약 데이터 통합 조회 |
+
+</div>
+
+<br/>
+
 ---
 
-## Contact
+<div align="center">
 
-* Email: [wkrdmsxowkd20@gmail.com](mailto:wkrdmsxowkd20@gmail.com)
-* GitHub: https://github.com/seonghwan20
-* Portfolio: https://seonghwan20.github.io
+## ✦ Certifications ✦
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:1F4E79,100:0B1F3A\&height=120\&section=footer)
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/전산회계%201급-1F4E79?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/네트워크관리사%202급-0FAAFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPIc-Intermediate%20Low-6C63FF?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Awards ✦
+
+</div>
+
+<div align="center">
+
+| Award                       | Link                                                                 |
+| --------------------------- | -------------------------------------------------------------------- |
+| Telegram IdeaTON 최우수상       | -                                                                    |
+| HASHKEY HACKATHON 특별상       | [Post](https://x.com/BlockchainatYU/status/1908135388641943925?s=20) |
+| BUIDL Asia Story Track 최우수상 | [Post](https://x.com/BlockchainatYU/status/1911413117629628456?s=20) |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ GitHub Stats ✦
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=seonghwan20&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghwan20&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=seonghwan20&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seonghwan20&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Contact ✦
+
+<br/>
+
+<a href="mailto:wkrdmsxowkd20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-wkrdmsxowkd20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/seonghwan20">
+  <img src="https://img.shields.io/badge/GitHub-seonghwan20-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://seonghwan20.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-seonghwan20.github.io-6C63FF?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:1F4E79&height=3&section=footer" />
+
+</div>
