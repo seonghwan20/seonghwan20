@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0B1F3A,100:1F4E79\&height=180\&section=header\&text=Seonghwan%20Jeong\&fontSize=42\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=36\&desc=SAP%20CO%20%7C%20ERP%20Process%20%7C%20ABAP%20%7C%20Fiori%2FUI5\&descAlignY=58\&descSize=16)
+
 <div align="center">
 
-# 정성환 | Seonghwan Jeong
-
-SAP CO · ERP Process · ABAP · Fiori/UI5 · Computer Science
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&pause=1000\&color=1F4E79\&center=true\&vCenter=true\&width=650\&lines=SAP+CO+%7C+ERP+Process+%7C+ABAP+%7C+Fiori%2FUI5;Computer+Science+%7C+Accounting+%7C+Business+Process;Cost+Flow+%7C+Data+Flow+%7C+System+Design)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-seonghwan20.github.io-1F4E79?style=flat-square)](https://seonghwan20.github.io)
 [![Email](https://img.shields.io/badge/Email-wkrdmsxowkd20%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:wkrdmsxowkd20@gmail.com)
@@ -50,6 +50,14 @@ SAP CO · ERP Process · ABAP · Fiori/UI5 · Computer Science
 ![OData](https://img.shields.io/badge/OData-0FAAFF?style=flat-square)
 
 ### Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,rust,html,css,react,git,github,solidity" />
+
+</div>
+
+<br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
@@ -158,6 +166,8 @@ AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=seonghwan20\&theme=default\&hide_border=true)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seonghwan20\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/seonghwan20)
+
 </div>
 
 ---
@@ -167,3 +177,5 @@ AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
 * Email: [wkrdmsxowkd20@gmail.com](mailto:wkrdmsxowkd20@gmail.com)
 * GitHub: https://github.com/seonghwan20
 * Portfolio: https://seonghwan20.github.io
+
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:1F4E79,100:0B1F3A\&height=120\&section=footer)
