@@ -1,11 +1,14 @@
+<div align="center">
+
 # 정성환 | Seonghwan Jeong
 
 SAP CO · ERP Process · ABAP · Fiori/UI5 · Computer Science
 
-![SAP CO](https://img.shields.io/badge/Focus-SAP%20CO-1F4E79?style=flat-square)
-![ERP](https://img.shields.io/badge/Domain-ERP-0FAAFF?style=flat-square)
-![ABAP](https://img.shields.io/badge/Skill-ABAP-0FAAFF?style=flat-square)
-![Fiori](https://img.shields.io/badge/Skill-Fiori%2FUI5-0FAAFF?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-seonghwan20.github.io-1F4E79?style=flat-square)](https://seonghwan20.github.io)
+[![Email](https://img.shields.io/badge/Email-wkrdmsxowkd20%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:wkrdmsxowkd20@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-seonghwan20-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/seonghwan20)
+
+</div>
 
 ---
 
@@ -52,6 +55,7 @@ SAP CO · ERP Process · ABAP · Fiori/UI5 · Computer Science
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
@@ -68,7 +72,7 @@ SAP CO · ERP Process · ABAP · Fiori/UI5 · Computer Science
 
 ## Featured Projects
 
-### SAP CODE ERP Implementation Project
+### 01. SAP CODE ERP Implementation Project
 
 가구 제조·판매·렌탈 기업 ERP 구축 프로젝트
 
@@ -90,7 +94,7 @@ SAP CO · ERP Process · ABAP · Fiori/UI5 · Computer Science
 
 ---
 
-### Zkare Medical Record Management System
+### 02. Zkare Medical Record Management System
 
 블록체인 기반 의료 기록 관리 시스템
 
@@ -106,7 +110,7 @@ SAP CO · ERP Process · ABAP · Fiori/UI5 · Computer Science
 
 ---
 
-### 조각집 SNS Project
+### 03. 조각집 SNS Project
 
 CODEIT 연계 SNS 서비스 개발 프로젝트
 
@@ -117,7 +121,7 @@ CODEIT 연계 SNS 서비스 개발 프로젝트
 
 ---
 
-### BUIDL Asia Story Track Project
+### 04. BUIDL Asia Story Track Project
 
 AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
 
@@ -147,8 +151,11 @@ AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
 
 ## GitHub
 
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghwan20\&layout=compact\&theme=default\&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=seonghwan20\&theme=default\&hide_border=true)
+
+</div>
 
 ---
 
@@ -156,4 +163,4 @@ AI 학습 데이터 기여도 기반 블록체인 IP 보상 플랫폼
 
 * Email: [wkrdmsxowkd20@gmail.com](mailto:wkrdmsxowkd20@gmail.com)
 * GitHub: https://github.com/seonghwan20
-* Portfolio: https://seonghwan.github.io
+* Portfolio: https://seonghwan20.github.io
